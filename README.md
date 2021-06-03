@@ -1,7 +1,7 @@
 # Github Explorer
 
 ## :zap: Sobre
-Esta aplicação foi construída ao longo de aulas do programa ignite da [Rocketseat](https://rocketseat.com.br/). O principal objetivo da aula era ensinar os conceitos básicos sobre como funciona uma aplicação em React. Os conceitos mostrados foram:
+Esta aplicação foi construída ao longo de aulas do programa Ignite da [Rocketseat](https://rocketseat.com.br/). O principal objetivo da aula era ensinar os conceitos básicos sobre como funciona uma aplicação em React. Os conceitos mostrados foram:
 * Estados;
 * Componentização;
 * Propriedades de componentes;
